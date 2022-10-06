@@ -38,7 +38,7 @@ int main()
     return 0;
 }
 
-/* Sample Input: 1
+/* Sample Output: 1
 
 Enter the number of elements in the array : 5
 
@@ -47,7 +47,7 @@ Enter the elements to form a 1-D array :
 Sum of all the elements present to the left of each element : 
 0 2 6 12 20 
 
-Sample Input: 2
+Sample Output: 2
 
 Enter the number of elements in the array : 7
 
