@@ -37,7 +37,7 @@ int main()
     return 0;
 }
 
-/* Sample Input: 1
+/* Sample Output: 1
 
 Enter the number of rows: 4
 
@@ -50,7 +50,7 @@ Enter the elements to form the matrix
 12 23 45 67
 The sum of the matrix except border elements is : 40
 
-Sample Input: 2
+Sample Output: 2
 
 Enter the number of rows: 3
 
